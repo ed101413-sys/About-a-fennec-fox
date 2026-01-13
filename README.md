@@ -2,6 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    /* <img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/3d4f0fbe-f86c-4e01-b62c-51ca071447b2" />
+*/<
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     All about a fennic foxes life style
@@ -12,7 +15,6 @@
     <p>https://www.endangeredwolfcenter.org/fennec-foxes/</p>
 </body>
 </html>
-/* <img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/3d4f0fbe-f86c-4e01-b62c-51ca071447b2" />
 */<
 
 body {
