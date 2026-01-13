@@ -12,7 +12,8 @@
     <p>https://www.endangeredwolfcenter.org/fennec-foxes/</p>
 </body>
 </html>
-/* Change the background of the entire visible page */<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/da364f17-6a5b-45a6-840d-9544be244ca4" />
+/* <img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/3d4f0fbe-f86c-4e01-b62c-51ca071447b2" />
+*/<
 
 body {
     background-color: #f0f0f0; /* Very light grey */
