@@ -12,3 +12,21 @@
     <p>https://www.endangeredwolfcenter.org/fennec-foxes/</p>
 </body>
 </html>
+/* Change the background of the entire visible page */<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/da364f17-6a5b-45a6-840d-9544be244ca4" />
+
+body {
+    background-color: #f0f0f0; /* Very light grey */
+}
+
+/* Style for all paragraphs */
+p {
+    color: darkgreen;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px solid orange; /* Adds an orange border around the heading */
+    padding: 10px; /* Adds space inside the border */
