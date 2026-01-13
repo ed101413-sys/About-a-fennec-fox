@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  background-image: url(<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/e8708a12-6b79-4f92-b7dd-a88b1a7f997f" />
-');
-  background-size: cover; /* Ensures the image covers the whole background */
-  background-repeat: no-repeat;
+ 
+  background-size: cover; /* 20
   background-position: center;
 }
     <meta charset="UTF-8">
@@ -20,4 +18,4 @@
 </html>
 */<
 
-  
+background-image: url(<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/e8708a12-6b79-4f92-b7dd-a88b1a7f997f" />
