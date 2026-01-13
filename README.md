@@ -2,7 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- style.css   
+  background-image: url(<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/e8708a12-6b79-4f92-b7dd-a88b1a7f997f" />
+');
+  background-size: cover; /* Ensures the image covers the whole background */
+  background-repeat: no-repeat;
+  background-position: center;
+}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     All about a fennic foxes life style
