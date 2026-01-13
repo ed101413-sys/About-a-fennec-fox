@@ -18,10 +18,11 @@
 */<
 
 body {
-    background-color: #f0f0f0; /* Very light grey */
+    background-color: #f0f0f0; /* red
+    */
 }
 
-/* Style for all paragraphs */
+/*  */
 p {
     color: darkgreen;
     font-size: 16px;
