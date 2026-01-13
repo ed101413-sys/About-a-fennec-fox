@@ -2,10 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- 
-  background-size: cover; /* 20
-  background-position: center;
-}
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     All about a fennic foxes life style
@@ -14,8 +11,10 @@
 <body>Fennec foxes (*Vulpes zerda), the smallest fox species, are nocturnal desert dwellers in North Africa and the Arabian Peninsula, famous for their enormous ears that dissipate heat and pinpoint prey underground, while their pale fur, thick coat, and furry paws provide camouflage and protection from extreme desert temperatures, allowing them to survive with little water by getting moisture from food.
     If you want to learn more about fennic foxes click the link down below!
     <p>https://www.endangeredwolfcenter.org/fennec-foxes/</p>
-</body>
+
+ 
+</body>Beneath the vast, starry desert sky, the fennec fox lives a life woven with quiet resilience and deep family bonds, emerging from cool, complex burrows at dusk to chase the moonlit whispers of prey, their enormous ears listening for the fainter heartbeats beneath the sand. Though they roam alone in the cool night, they form devoted pairs, sharing a lifetime of loyalty, with fathers fiercely protecting and providing for their mates and tiny, helpless kits born in the safety of their sandy homes, a tender cycle of survival and love in the harshest world.
 </html>
 */<
 
-background-image: url(<img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/e8708a12-6b79-4f92-b7dd-a88b1a7f997f" />
+  <Video src="https:https://www.youtube.com/shorts/B0oPHp-tmhQ
