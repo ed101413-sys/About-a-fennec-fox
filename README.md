@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    /* <img width="612" height="566" alt="image" src="https://github.com/user-attachments/assets/3d4f0fbe-f86c-4e01-b62c-51ca071447b2" />
-*/<
-
+ style.css   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     All about a fennic foxes life style
@@ -17,20 +15,4 @@
 </html>
 */<
 
-body {
-    background-color: #f0f0f0; /* red
-    */
-}
-
-/*  */
-p {
-    color: darkgreen;
-    font-size: 16px;
-    font-family: 'Times New Roman', serif;
-}
-
-/* Style for the main heading */
-h1 {
-    text-align: center; /* Puts the heading in the middle */
-    border: 2px solid orange; /* Adds an orange border around the heading */
-    padding: 10px; /* Adds space inside the border */
+  
