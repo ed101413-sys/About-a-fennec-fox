@@ -11,7 +11,8 @@
     <p>https://www.endangeredwolfcenter.org/fennec-foxes/</p>
 
 #  life style by Emma bishop
-</body> 'Fira Code' Beneath the vast, starry desert sky, the fennec fox lives a life woven with quiet resilience and deep family bonds, emerging from cool, complex burrows at dusk to chase the moonlit whispers of prey, their enormous ears listening for the fainter heartbeats beneath the sand. Though they roam alone in the cool night, they form devoted pairs, sharing a lifetime of loyalty, with fathers fiercely protecting and providing for their mates and tiny, helpless kits born in the safety of their sandy homes, a tender cycle of survival and love in the harshest world.
+</body>  Beneath the vast, starry desert sky, the fennec fox lives a life woven with quiet resilience and deep family bonds, emerging from cool, complex burrows at dusk to chase the moonlit whispers of prey, their enormous ears listening for the fainter heartbeats beneath the sand. Though they roam alone in the cool night, they form devoted pairs, sharing a lifetime of loyalty, with fathers fiercely protecting and providing for their mates and tiny, helpless kits born in the safety of their sandy homes, a tender cycle of survival and love in the harshest world.
 <iframe width="383" height="682" src="https://www.youtube.com/embed/B0oPHp-tmhQ" 
 
 </html>
+("https://fonts.googleapis.com")
