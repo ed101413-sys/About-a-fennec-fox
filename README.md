@@ -15,6 +15,4 @@
 <iframe width="383" height="682" src="https://www.youtube.com/embed/B0oPHp-tmhQ" 
 
 </html>
-body {
-  background-color: #2f4156;
 }
